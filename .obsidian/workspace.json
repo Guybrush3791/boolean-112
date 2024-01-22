@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello Boolean.md",
+                "file": "2024-01-22 - PHP Intro.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c1a28c44cfef2674",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa02284c4a6e02ec",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello Boolean.md",
+                "file": "2024-01-22 - PHP Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello Boolean.md",
+                "file": "2024-01-22 - PHP Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello Boolean.md"
+                "file": "2024-01-22 - PHP Intro.md"
               }
             }
           }
@@ -162,7 +148,9 @@
   },
   "active": "fd2dc2bbdc68b80a",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Hello Boolean.md"
+    "Hello Boolean.md",
+    "2024-01-22 - PHP Intro.md",
+    "Live",
+    "Welcome.md"
   ]
 }
