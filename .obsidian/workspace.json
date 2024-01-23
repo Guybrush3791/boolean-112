@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab69b4b1b47f3171",
+        "id": "f575ae132fc54b77",
         "type": "tabs",
         "children": [
           {
-            "id": "fd2dc2bbdc68b80a",
+            "id": "32248fedf9084633",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md",
-                "mode": "source",
+                "file": "Boolean Full Stack - 112.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-22 - PHP Intro.md"
+                "file": "Boolean Full Stack - 112.md"
+              }
+            }
+          },
+          {
+            "id": "11241c1775dab49e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -138,19 +152,51 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "vscode-editor:Create Code File": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "code-files:Create Code File": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "fd2dc2bbdc68b80a",
+  "active": "32248fedf9084633",
   "lastOpenFiles": [
+    "Live/2024-01-22 - PHP Intro.md",
+    "Tips & Tricks/Markdown/Mermaid/Git.md",
+    "Boolean Full Stack - 112.md",
+    "__assets/imgs/header-banner.png",
+    "__assets/imgs/Pasted image 20240122125333.png",
+    "__assets/imgs/boolean.png",
+    "Empty File",
+    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Workspace",
+    "Tips & Tricks/Markdown/Slides/Slides demo.md",
+    "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Timeline.md",
+    "Tips & Tricks/Markdown/Mermaid/State diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Sequence Diagram.md",
+    "Tips & Tricks/Markdown/Mermaid/Pie.md",
+    "Tips & Tricks/Markdown/Mermaid/Gantt.md",
+    "Tips & Tricks/Markdown/Mermaid/Flow.md",
+    "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
+    "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
+    "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
+    "Tips & Tricks/Markdown/Slides",
+    "Tips & Tricks/Markdown/Mermaid",
+    "Tips & Tricks/Markdown/Attach",
+    "Tips & Tricks/Markdown",
+    "Databases",
+    "Personal",
+    "Snacks",
+    "Tips & Tricks/Update Voult.md",
+    "Boolean Full Stack - 112",
+    "index.php.md",
     "Hello Boolean.md",
-    "2024-01-22 - PHP Intro.md",
-    "Live",
     "Welcome.md"
   ]
 }
