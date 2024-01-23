@@ -224,7 +224,7 @@ The outer pipes (|) are optional, and you don't need to make the raw Markdown li
 > [!info] Example
 > - [x] Write the post
 > - [ ] Update the website
-> - [ ] Contact the user
+> - [x] Contact the user
 
 ### Callouts
 ```
