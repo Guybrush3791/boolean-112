@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-23 - PHP Hotel.md",
+                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-23 - PHP Hotel.md",
+                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-23 - PHP Hotel.md",
+                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-23 - PHP Hotel.md"
+                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md"
               }
             }
           },
@@ -175,27 +175,31 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "9f5d063aac864ba2",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Workspace/03-php-function-and-includes/thankyou.php",
+    "Workspace/03-php-function-and-includes/index.php",
+    "Workspace/03-php-function-and-includes/partials/vars.php",
+    "Workspace/03-php-function-and-includes/partials",
+    "Workspace/03-php-function-and-includes",
+    "Live/2024-01-24 - Mail Checker.md",
+    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
     "Live/2024-01-23 - PHP Foundamentals.md",
     "Snacks/2024-01-23 - PHP Hotel.md",
-    "Workspace/01-php-intro/snack2.php",
-    "Workspace/01-php-intro/snack1.php",
-    "Workspace/01-php-intro/es3.php",
-    "Workspace/01-php-intro/es2.php",
-    "Workspace/01-php-intro/es1.php",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Workspace/01-php-intro/slide-live-coding.php",
-    "Workspace/01-php-intro",
-    "Boolean Full Stack - 112.md",
-    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
+    "Workspace/02-php-foundamentals/2024-01-23 - PHP Hotel.php",
+    "Workspace/02-php-foundamentals",
+    "Workspace/01-php-foundamentals",
+    "Workspace/01-php-intro/2024-01-23 - PHP Hotel.php",
+    "Workspace/es3-t.php",
     "Live/2024-01-22 - PHP Intro.md",
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Boolean Full Stack - 112.md",
+    "Workspace/01-php-intro/snack2.php",
+    "Tips & Tricks/Markdown/Markdown + Obsidian.md",
     "Tips & Tricks/Markdown/Mermaid/Git.md",
     "__assets/imgs/header-banner.png",
     "__assets/imgs/Pasted image 20240122125333.png",
     "__assets/imgs/boolean.png",
-    "Empty File",
-    "Workspace",
     "Tips & Tricks/Markdown/Slides/Slides demo.md",
     "Tips & Tricks/Markdown/Mermaid/User Journey Diagram.md",
     "Tips & Tricks/Markdown/Mermaid/Timeline.md",
@@ -207,7 +211,6 @@
     "Tips & Tricks/Markdown/Mermaid/Entity Relationship.md",
     "Tips & Tricks/Markdown/Mermaid/Class diagrams.md",
     "Tips & Tricks/Markdown/Attach/Markdown Linkable Note.md",
-    "Tips & Tricks/Markdown/Slides",
     "Tips & Tricks/Update Voult.md",
     "index.php.md",
     "Hello Boolean.md",
