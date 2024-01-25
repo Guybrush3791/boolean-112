@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md"
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md"
               }
             }
           },
@@ -175,26 +175,26 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "9f5d063aac864ba2",
   "lastOpenFiles": [
+    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
+    "Workspace/04-json_encode-decode/thankyou.php",
+    "Workspace/04-json_encode-decode/index.php",
+    "Workspace/04-json_encode-decode/partials/functions.php",
+    "Workspace/04-json_encode-decode/partials",
+    "Workspace/04-json_encode-decode",
+    "Boolean Full Stack - 112.md",
     "Workspace/03-php-function-and-includes/thankyou.php",
     "Workspace/03-php-function-and-includes/index.php",
     "Workspace/03-php-function-and-includes/partials/vars.php",
     "Workspace/03-php-function-and-includes/partials",
     "Workspace/03-php-function-and-includes",
     "Live/2024-01-24 - Mail Checker.md",
-    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
     "Live/2024-01-23 - PHP Foundamentals.md",
     "Snacks/2024-01-23 - PHP Hotel.md",
-    "Workspace/02-php-foundamentals/2024-01-23 - PHP Hotel.php",
-    "Workspace/02-php-foundamentals",
-    "Workspace/01-php-foundamentals",
-    "Workspace/01-php-intro/2024-01-23 - PHP Hotel.php",
-    "Workspace/es3-t.php",
     "Live/2024-01-22 - PHP Intro.md",
     "Tips & Tricks/Aggiornare il Vault.md",
-    "Boolean Full Stack - 112.md",
-    "Workspace/01-php-intro/snack2.php",
     "Tips & Tricks/Markdown/Markdown + Obsidian.md",
     "Tips & Tricks/Markdown/Mermaid/Git.md",
     "__assets/imgs/header-banner.png",
