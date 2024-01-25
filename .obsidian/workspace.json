@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9f5d063aac864ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-24 - PHP Strong Password Generator.md"
+                "file": "Boolean Full Stack - 112.md"
               }
             }
           },
@@ -175,8 +162,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "9f5d063aac864ba2",
+  "active": "32248fedf9084633",
   "lastOpenFiles": [
+    "Workspace/04-json_encode-decode/Live/Back-end/fileReader.php",
+    "Workspace/04-json_encode-decode/Live/Back-end/index.php",
+    "Workspace/04-json_encode-decode/Live/Back-end/studentsApi.php",
+    "Workspace/04-json_encode-decode/Live/Front-end/src/main.js",
+    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
     "Workspace/04-json_encode-decode/Live/Front-end/vite.config.js",
     "Workspace/04-json_encode-decode/Live/Front-end/README.md",
     "Workspace/04-json_encode-decode/Live/Front-end/package-lock.json",
@@ -186,10 +178,6 @@
     "Workspace/04-json_encode-decode/Live/Front-end/src/components/HelloWorld.vue",
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/src/style.css",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/main.js",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/components",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/assets",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/App.vue",
     "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/node_modules/form-data/Readme.md",
     "Workspace/04-json_encode-decode/Live/Front-end/node_modules/follow-redirects/README.md",
@@ -214,7 +202,6 @@
     "Workspace/04-json_encode-decode/Live/Front-end/node_modules/csstype/README.md",
     "Workspace/04-json_encode-decode/Live/Front-end/node_modules/magic-string/README.md",
     "Workspace/04-json_encode-decode/Live/Front-end/node_modules/entities/readme.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/estree-walker/README.md",
     "__assets/imgs/header-banner.png",
     "__assets/imgs/Pasted image 20240122125333.png",
     "__assets/imgs/boolean.png"
