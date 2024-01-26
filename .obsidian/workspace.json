@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "37a734663c8c49ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Full Stack - 112.md"
+                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md"
               }
             }
           },
@@ -162,46 +175,48 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "32248fedf9084633",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
-    "Workspace/04-json_encode-decode/Live/Back-end/fileReader.php",
-    "Workspace/04-json_encode-decode/Live/Back-end/index.php",
-    "Workspace/04-json_encode-decode/Live/Back-end/studentsApi.php",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/main.js",
-    "Snacks/2024-01-24 - PHP Strong Password Generator.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/vite.config.js",
-    "Workspace/04-json_encode-decode/Live/Front-end/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/package-lock.json",
-    "Workspace/04-json_encode-decode/Live/Front-end/package.json",
-    "Workspace/04-json_encode-decode/Live/Front-end/index.html",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/components/TestComp.vue",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/components/HelloWorld.vue",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/package.json",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/index.js",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/db.json",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/LICENSE",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/HISTORY.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/lib/delayed_stream.js",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/package.json",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/lib",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/Readme.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/Makefile",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/License",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-types/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-types/HISTORY.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/combined-stream/Readme.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/asynckit/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/proxy-from-env/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/follow-redirects/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/lib/helpers/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/lib/env/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/lib/core/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/lib/adapters/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/SECURITY.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/MIGRATION_GUIDE.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/axios/CHANGELOG.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/vite/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/vite/LICENSE.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/csstype/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/magic-string/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/estree-walker/README.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/estree-walker/CHANGELOG.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/entities/readme.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/form-data/Readme.md",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/style.css",
     "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/form-data/Readme.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/follow-redirects/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/lib/helpers/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/lib/env/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/lib/core/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/lib/adapters/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/SECURITY.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/MIGRATION_GUIDE.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/axios/CHANGELOG.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/mime-db/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/mime-db/HISTORY.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/delayed-stream/Readme.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/combined-stream/Readme.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/mime-types/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/mime-types/HISTORY.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/asynckit/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/proxy-from-env/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/vite/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/vite/LICENSE.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/csstype/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/magic-string/README.md",
-    "Workspace/04-json_encode-decode/Live/Front-end/node_modules/entities/readme.md",
     "__assets/imgs/header-banner.png",
     "__assets/imgs/Pasted image 20240122125333.png",
     "__assets/imgs/boolean.png"
