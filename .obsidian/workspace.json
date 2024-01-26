@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "37a734663c8c49ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
+                "file": "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md",
+                "file": "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-25 - PHP ToDo List JSON.md"
+                "file": "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/PostComponent.vue"
               }
             }
           },
@@ -177,6 +164,10 @@
   },
   "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/components/HelloWorld.vue",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/style.css",
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/main.js",
+    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/package.json",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/index.js",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-db/db.json",
@@ -188,9 +179,6 @@
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/package.json",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/lib",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/Readme.md",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/Makefile",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream/License",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/delayed-stream",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-types/README.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/mime-types/HISTORY.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/combined-stream/Readme.md",
@@ -212,7 +200,6 @@
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/estree-walker/README.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/estree-walker/CHANGELOG.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/entities/readme.md",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/node_modules/form-data/Readme.md",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",

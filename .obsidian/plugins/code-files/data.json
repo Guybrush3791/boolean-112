@@ -5,7 +5,11 @@
     "js",
     "jsx",
     "py",
-    "php"
+    "php",
+    "vue",
+    "css",
+    "html",
+    "json"
   ],
   "folding": true,
   "lineNumbers": true,
