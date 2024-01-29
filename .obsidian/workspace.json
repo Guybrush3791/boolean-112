@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-29 - DB First.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-29 - DB First.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-29 - DB First.md",
+                "file": "Snacks/2024-01-29 - DB First.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-29 - DB First.md"
+                "file": "Snacks/2024-01-29 - DB First.md"
               }
             }
           },
@@ -178,7 +178,7 @@
   "active": "14a9009990d564fb",
   "lastOpenFiles": [
     "Live/2024-01-29 - Tabella Libri.md",
-    "2024-01-29 - DB First.md",
+    "Snacks/2024-01-29 - DB First.md",
     "Boolean Full Stack - 112.md",
     "Untitled.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/back-end/tasks.json",
