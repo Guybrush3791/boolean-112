@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
+                "file": "Live/2024-01-30 - DB E-Commerce.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
+                "file": "Live/2024-01-30 - DB E-Commerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md",
+                "file": "Live/2024-01-30 - DB E-Commerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-29 - DB First.md"
+                "file": "Live/2024-01-30 - DB E-Commerce.md"
               }
             }
           },
@@ -177,9 +177,13 @@
   },
   "active": "14a9009990d564fb",
   "lastOpenFiles": [
-    "Live/2024-01-29 - Tabella Libri.md",
-    "Snacks/2024-01-29 - DB First.md",
+    "db_e-commerce.drawio.png",
     "Boolean Full Stack - 112.md",
+    "Live/2024-01-30 - DB E-Commerce.md",
+    "db_e-commerce.png",
+    "Live/2024-01-22 - PHP Intro.md",
+    "Snacks/2024-01-29 - DB First.md",
+    "Live/2024-01-29 - Tabella Libri.md",
     "Untitled.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/back-end/tasks.json",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/back-end/deleteTask.php",
@@ -210,9 +214,6 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/MIGRATION_GUIDE.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/CHANGELOG.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/vue/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/entities/readme.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/csstype/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
@@ -220,7 +221,6 @@
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
     "__assets/imgs/header-banner.png",
-    "__assets/imgs/Pasted image 20240122125333.png",
-    "__assets/imgs/boolean.png"
+    "__assets/imgs/Pasted image 20240122125333.png"
   ]
 }
