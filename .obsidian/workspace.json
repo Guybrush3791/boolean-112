@@ -25,16 +25,26 @@
             "id": "14a9009990d564fb",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "__assets/imgs/db_e-commerce.drawio.png"
+              }
+            }
+          },
+          {
+            "id": "15d69b4d3be09619",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2024-01-30 - DB E-Commerce.md",
-                "mode": "preview",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2024-01-30 - DB E-Commerce.md",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2024-01-30 - DB E-Commerce.md",
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2024-01-30 - DB E-Commerce.md"
+                "file": "Live/2024-01-30 - 1 - DB E-Commerce.md"
               }
             }
           },
@@ -175,11 +185,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "14a9009990d564fb",
+  "active": "15d69b4d3be09619",
   "lastOpenFiles": [
-    "db_e-commerce.drawio.png",
+    "Live/2024-01-30 - 2 - Biblioteca.md",
+    "__assets/imgs/Biblioteca.drawio.png",
+    "__assets/imgs/db_e-commerce.drawio.png",
+    "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "Boolean Full Stack - 112.md",
-    "Live/2024-01-30 - DB E-Commerce.md",
     "db_e-commerce.png",
     "Live/2024-01-22 - PHP Intro.md",
     "Snacks/2024-01-29 - DB First.md",
@@ -213,14 +225,12 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/SECURITY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/MIGRATION_GUIDE.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/CHANGELOG.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
-    "__assets/imgs/header-banner.png",
-    "__assets/imgs/Pasted image 20240122125333.png"
+    "__assets/imgs/header-banner.png"
   ]
 }
