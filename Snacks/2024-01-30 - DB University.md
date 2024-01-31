@@ -3,7 +3,7 @@
 
 ## Todo
 Modellizzare la struttura di un database per memorizzare tutti i dati riguardanti una università:
-- sono presenti d**iversi Dipartimenti** (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.)
+- sono presenti **diversi Dipartimenti** (es.: Lettere e Filosofia, Matematica, Ingegneria ecc.)
 - ogni *Dipartimento* offre **più Corsi di Laurea** (es.: Civiltà e Letterature Classiche, Informatica, Ingegneria Elettronica ecc..)
 - ogni *Corso di Laurea* prevede **diversi Corsi** (es.: Letteratura Latina, Sistemi Operativi 1, Analisi Matematica 2 ecc.)
 - ogni *Corso* può essere tenuto da **diversi Insegnanti**
@@ -15,3 +15,6 @@ Modellizzare la struttura di un database per memorizzare tutti i dati riguardant
 Pensiamo a quali entità (tabelle) creare per il nostro database e cerchiamo poi di stabilirne le relazioni. Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
 
 Utilizzare https://www.diagrams.net/ per la creazione dello schema. Esportare quindi il diagramma in `jpg` e caricarlo nella **repo**.
+
+## Correzione
+![[db-university.drawio.png]]

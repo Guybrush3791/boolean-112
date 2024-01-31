@@ -22,29 +22,19 @@
             }
           },
           {
-            "id": "14a9009990d564fb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__assets/imgs/db_e-commerce.drawio.png"
-              }
-            }
-          },
-          {
-            "id": "15d69b4d3be09619",
+            "id": "c137fc7583d35dd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-30 - DB University.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-30 - DB University.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-30 - DB University.md",
+                "file": "Database/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-30 - DB University.md"
+                "file": "Database/2024-01-31 - DB University.md"
               }
             }
           },
@@ -185,14 +175,20 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "15d69b4d3be09619",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
+    "__assets/dump/db_university.sql.gz",
+    "__assets/dump",
+    "db_university.sql.gz",
+    "Boolean Full Stack - 112.md",
+    "Database/2024-01-31 - DB University.md",
+    "Database",
     "Snacks/2024-01-30 - DB University.md",
+    "__assets/imgs/db-university.drawio.png",
+    "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
     "__assets/imgs/Biblioteca.drawio.png",
     "__assets/imgs/db_e-commerce.drawio.png",
-    "Boolean Full Stack - 112.md",
     "db_e-commerce.png",
     "Live/2024-01-22 - PHP Intro.md",
     "Snacks/2024-01-29 - DB First.md",
@@ -208,9 +204,6 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/LICENSE",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/lib/delayed_stream.js",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/package.json",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md",
@@ -224,14 +217,11 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/lib/core/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/lib/adapters/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/SECURITY.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/MIGRATION_GUIDE.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
     "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg",
-    "__assets/imgs/header-banner.png"
+    "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg"
   ]
 }
