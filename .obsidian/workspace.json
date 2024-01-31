@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-01-31 - DB University.md",
+                "file": "Live/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-01-31 - DB University.md",
+                "file": "Live/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-01-31 - DB University.md",
+                "file": "Live/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-01-31 - DB University.md"
+                "file": "Live/2024-01-31 - DB University.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "c137fc7583d35dd8",
   "lastOpenFiles": [
-    "Live/2024-01-31 - DB University.md",
     "Snacks/2024-01-31 - DB University.md",
+    "Live/2024-01-31 - DB University.md",
     "Snacks/2024-01-30 - DB University.md",
     "Database/2024-01-31 - DB University.md",
     "__assets/imgs/Pasted image 20240131120038.png",

@@ -2,7 +2,7 @@
 `db-university`
 
 ## DB
-[[Database/2024-01-31 - DB University]]
+[[Database/2024-01-31 - DB University|DB University]]
 
 ## Todo
 Dopo aver testato le vostre query con `phpMyAdmin`, riportatele in un file `txt` o `md` e caricatelo nella vostra repo.

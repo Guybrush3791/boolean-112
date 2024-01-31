@@ -1,5 +1,5 @@
 ## DB
-[[Database/2024-01-31 - DB University]]
+[[Database/2024-01-31 - DB University|DB University]]
 
 ## Todo
 1. Selezionare tutti gli insegnanti
