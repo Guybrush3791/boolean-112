@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a337ebb94462893",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md",
+                "file": "Snacks/2024-01-31 - DB University.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/2024-01-31 - DB University.md"
+                "file": "Snacks/2024-01-31 - DB University.md"
               }
             }
           },
@@ -176,14 +175,16 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "c137fc7583d35dd8",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Live/2024-01-31 - DB University.md",
+    "Snacks/2024-01-31 - DB University.md",
+    "Database/2024-01-31 - DB University.md",
     "__assets/imgs/Pasted image 20240131120038.png",
     "__assets/dump/db_university.sql.gz",
     "__assets/dump",
     "db_university.sql.gz",
     "Boolean Full Stack - 112.md",
-    "Database/2024-01-31 - DB University.md",
     "Database",
     "Snacks/2024-01-30 - DB University.md",
     "__assets/imgs/db-university.drawio.png",
@@ -217,12 +218,10 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/lib/env/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/lib/core/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/lib/adapters/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/axios/SECURITY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/public/vite.svg"
+    "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg"
   ]
 }
