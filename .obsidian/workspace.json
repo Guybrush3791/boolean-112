@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2024-02-01 - DB University - 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5a337ebb94462893",
@@ -177,11 +178,11 @@
   },
   "active": "c137fc7583d35dd8",
   "lastOpenFiles": [
+    "Boolean Full Stack - 112.md",
+    "Snacks/2024-02-01 - DB University - 3.md",
     "Snacks/2024-01-31 - DB University - 2.md",
     "Snacks/2024-01-30 - DB University - 1.md",
-    "Snacks/2024-02-01 - DB University - 3.md",
     "Live/2024-02-01 - DB University - 2.md",
-    "Boolean Full Stack - 112.md",
     "Live/2024-01-31 - DB University.md",
     "Database/2024-01-31 - DB University.md",
     "__assets/imgs/Pasted image 20240131120038.png",
