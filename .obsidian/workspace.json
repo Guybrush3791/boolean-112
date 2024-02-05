@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c137fc7583d35dd8",
+            "id": "8bc86a79044ae3c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a337ebb94462893",
@@ -176,23 +175,28 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "c137fc7583d35dd8",
+  "active": "8bc86a79044ae3c1",
   "lastOpenFiles": [
+    "Workspace/06-php-oop-1/Live/php-oop-1/index-pre-bonus1.php",
+    "Workspace/06-php-oop-1/Live/php-oop-1/index.php",
+    "Workspace/06-php-oop-1/Live/php-oop-1/db.php",
+    "Workspace/06-php-oop-1/Live/php-oop-1/models/movie.php",
+    "Workspace/06-php-oop-1/Live/php-oop-1/models/genre.php",
+    "Workspace/06-php-oop-1/Live/php-oop-1/models",
+    "Workspace/06-php-oop-1/Live/php-oop-1",
+    "Workspace/06-php-oop-1/Live/index.php",
     "Workspace/06-php-oop-1/index.php",
+    "Workspace/06-php-oop-1/Live",
+    "Boolean Full Stack - 112.md",
+    "Snacks/2024-02-02 - php-oop-1.md",
     "Workspace/06-php-oop-1",
     "Snacks/2024-02-01 - DB University - 3.md",
-    "Snacks/2024-02-02 - php-oop-1.md",
-    "Boolean Full Stack - 112.md",
     "Snacks/2024-01-31 - DB University - 2.md",
     "Snacks/2024-01-30 - DB University - 1.md",
     "Live/2024-02-01 - DB University - 2.md",
     "Live/2024-01-31 - DB University.md",
     "Database/2024-01-31 - DB University.md",
     "__assets/imgs/Pasted image 20240131120038.png",
-    "__assets/dump/db_university.sql.gz",
-    "__assets/dump",
-    "db_university.sql.gz",
-    "Database",
     "__assets/imgs/db-university.drawio.png",
     "Live/2024-01-30 - 1 - DB E-Commerce.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
@@ -203,12 +207,7 @@
     "Snacks/2024-01-29 - DB First.md",
     "Live/2024-01-29 - Tabella Libri.md",
     "Untitled.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/back-end/tasks.json",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/back-end/deleteTask.php",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/components/TasksComp.vue",
     "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/package.json",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/index.js",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
