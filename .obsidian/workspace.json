@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2024-02-05 - php-oop-2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -175,12 +175,13 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "07b73d1664eeed47",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Workspace/07-php-oop-2/php-oop-2",
+    "Workspace/07-php-oop-2/Live/index.php",
+    "Snacks/2024-02-05 - php-oop-2.md",
     "Snacks/2024-02-06 - php-oop-2.md",
     "Boolean Full Stack - 112.md",
-    "Workspace/07-php-oop2/Live/index.php",
-    "Snacks/2024-02-05 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
     "Workspace/06-php-oop-1/php-oop-1/models/movie.php",
     "Workspace/06-php-oop-1/php-oop-1/models/genre.php",
@@ -189,8 +190,8 @@
     "Workspace/06-php-oop-1/php-oop-1/index-pre-bonus1.php",
     "Workspace/06-php-oop-1/php-oop-1/db.php",
     "Workspace/06-php-oop-1/php-oop-1",
-    "Workspace/07-php-oop2/Live",
-    "Workspace/07-php-oop2",
+    "Workspace/07-php-oop-2/Live",
+    "Workspace/07-php-oop-2",
     "Live/2024-02-05 - User Membership.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
     "Live/2024-01-31 - DB University.md",
