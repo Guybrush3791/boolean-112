@@ -22,7 +22,7 @@
         public function setUsername($username) {
 
             if (!is_string($username) || strlen($username) < 3)
-                return;
+                throw new Exception("$username is not a valid username");
 
             $this -> username = $username;
         }
@@ -41,6 +41,9 @@
             return $this -> password;
         }
         public function setPassword($password) {
+
+            if (!is_string($username) || strlen($username) < 3)
+                throw new Exception("$password is not a valid password");
 
             $this -> password = $password;
         }
@@ -127,18 +130,27 @@
         }
     }
     
-    $user = new User("Guybrush", "guybrush@gmail.com", "miapws");
-    var_dump($user);
+    try {
 
-    echo "<br><br>";
+        // $user = new User("Guybrush", "guybrush@gmail.com", "miapws");
+        $user = new User(543, "guybrush@gmail.com", "miapws");
+        var_dump($user);
 
-    // $user -> setUsername("Piero");
+        echo "<br><br>";
 
-    echo "User: " . $user -> getUsername();
-    echo "<br>";
-    echo "Email: " . $user -> getEmail();
-    echo "<br>";
-    echo "Password: " . $user -> getPassword();
+        $user -> setUsername(543);
+
+        echo "User: " . $user -> getUsername();
+        echo "<br>";
+        echo "Email: " . $user -> getEmail();
+        echo "<br>";
+        echo "Password: " . $user -> getPassword();
+    } catch (Exception $e) {
+
+        echo "Errore nella creazione dell'utente 1: " . $e -> getMessage();
+    }
+
+    
 
     echo "<br><br>";
 
