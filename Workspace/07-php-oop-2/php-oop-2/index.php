@@ -5,7 +5,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AnimalCommerce</title>
 
-    <?php require_once(__DIR__ . "/db.php"); ?>
+    <?php 
+    
+        require_once(__DIR__ . "/db.php"); 
+
+        try {
+
+            $test_prod = new Product(
+                10, "Te", "https://shop-cdn-m.mediazs.com/bilder/9/400/26635_pla_meradog_puppyknochen_10kg_9.jpg", 50, 20, $cat_cat, "10/05/2024"
+            );
+        } catch (Exception $e) {
+
+            echo "Impossibile creare prodotto di test: " . $e -> getMessage();
+        }
+
+        die();
+    
+    ?>
 </head>
 <body>
     
