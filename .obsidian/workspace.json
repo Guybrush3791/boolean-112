@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "07b73d1664eeed47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2024-02-05 - php-oop-2.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-05 - php-oop-2.md",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-05 - php-oop-2.md",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-05 - php-oop-2.md"
+                "file": "Boolean Full Stack - 112.md"
               }
             }
           },
@@ -175,23 +162,22 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "32248fedf9084633",
   "lastOpenFiles": [
-    "Workspace/07-php-oop-2/php-oop-2/models/discountTrait.php",
+    "Workspace/08-php-mysqli/index.php",
     "Boolean Full Stack - 112.md",
+    "Workspace/07-php-oop-2/php-oop-2/db.php",
+    "Workspace/07-php-oop-2/php-oop-2/index.php",
+    "Snacks/2024-02-05 - php-oop-2.md",
+    "Workspace/08-php-mysqli",
+    "Workspace/07-php-oop-2/php-oop-2/models/discountTrait.php",
     "Workspace/07-php-oop-2/php-oop-2",
     "Workspace/07-php-oop-2/Live/index.php",
-    "Snacks/2024-02-05 - php-oop-2.md",
     "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
     "Workspace/06-php-oop-1/php-oop-1/models/movie.php",
     "Workspace/06-php-oop-1/php-oop-1/models/genre.php",
     "Workspace/06-php-oop-1/php-oop-1/models",
-    "Workspace/06-php-oop-1/php-oop-1/index.php",
-    "Workspace/06-php-oop-1/php-oop-1/index-pre-bonus1.php",
-    "Workspace/06-php-oop-1/php-oop-1/db.php",
-    "Workspace/06-php-oop-1/php-oop-1",
-    "Workspace/07-php-oop-2/Live",
     "Live/2024-02-05 - User Membership.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
     "Live/2024-01-31 - DB University.md",
