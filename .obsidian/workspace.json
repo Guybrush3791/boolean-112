@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Tips & Tricks/New Laravel Project.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -175,8 +175,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "41a23d5876180e9f",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "__assets/imgs/Pasted image 20240208123411.png",
+    "__assets/imgs/Pasted image 20240208123045.png",
     "Boolean Full Stack - 112.md",
     "Tips & Tricks/New Laravel Project.md",
     "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
@@ -217,11 +219,9 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/proxy-from-env/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/combined-stream/Readme.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
     "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg",
-    "Workspace/04-json_encode-decode/Live/Front-end/src/assets/vue.svg"
+    "Workspace/05-json_encode-decode/Live/front-end/post-manager/public/vite.svg"
   ]
 }
