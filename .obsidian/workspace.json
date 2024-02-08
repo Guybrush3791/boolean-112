@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "41a23d5876180e9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips & Tricks/New Laravel Project.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Full Stack - 112.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Full Stack - 112.md"
+                "file": "Tips & Tricks/New Laravel Project.md"
               }
             }
           },
@@ -162,22 +175,23 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "32248fedf9084633",
+  "active": "41a23d5876180e9f",
   "lastOpenFiles": [
-    "Workspace/08-php-mysqli/index.php",
     "Boolean Full Stack - 112.md",
+    "Tips & Tricks/New Laravel Project.md",
+    "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
+    "Workspace/09-laravel-intro/vendor/composer/1ce44b71",
+    "Workspace/09-laravel-intro/vendor/composer",
+    "Workspace/09-laravel-intro/vendor",
+    "Workspace/09-laravel-intro/HelloWorldProject",
+    "Workspace/09-laravel-intro",
+    "Workspace/08-php-mysqli/index.php",
     "Workspace/07-php-oop-2/php-oop-2/db.php",
     "Workspace/07-php-oop-2/php-oop-2/index.php",
     "Snacks/2024-02-05 - php-oop-2.md",
     "Workspace/08-php-mysqli",
-    "Workspace/07-php-oop-2/php-oop-2/models/discountTrait.php",
-    "Workspace/07-php-oop-2/php-oop-2",
-    "Workspace/07-php-oop-2/Live/index.php",
     "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
-    "Workspace/06-php-oop-1/php-oop-1/models/movie.php",
-    "Workspace/06-php-oop-1/php-oop-1/models/genre.php",
-    "Workspace/06-php-oop-1/php-oop-1/models",
     "Live/2024-02-05 - User Membership.md",
     "Live/2024-01-30 - 2 - Biblioteca.md",
     "Live/2024-01-31 - DB University.md",
