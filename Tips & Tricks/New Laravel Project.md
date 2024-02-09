@@ -26,7 +26,10 @@ Una volta lanciato il server, la pagina di default puo' essere aperta nel browse
 Repository: `https://github.com/Guybrush3791/bool-112-laravel-base`
 
 ### Creare repository basato su template
-Creare un normale `repository` avendo cura di selezionare `bool-112-laravel-base` come template
+Aprire il link al `repository` che fa da `template` ([link](https://github.com/Guybrush3791/bool-112-laravel-base)) e generare un nuovo `repository` usando quello linkato come template
+![[Pasted image 20240209115747.png]]
+
+Creare un normale `repository` avendo cura di selezionare `bool-112-laravel-base` come template e definire il nome del progetto
 ![[Pasted image 20240209114050.png]]
 
 ### Clonare il repository in locale
@@ -40,7 +43,7 @@ Aprire con `VSCode` la cartella appena creata attraverso il `git`
 ### Back-end
 Dopo aver installato le dipendenze lato `back-end`, lanciare il `php artisan serve`
 ```sh
-composer install
+composer update
 php artisan serve
 ```
 

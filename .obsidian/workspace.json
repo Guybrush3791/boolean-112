@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "mode": "preview",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md",
+                "file": "Snacks/2024-02-09 - laravel-comics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips & Tricks/New Laravel Project.md"
+                "file": "Snacks/2024-02-09 - laravel-comics.md"
               }
             }
           },
@@ -177,25 +177,31 @@
   },
   "active": "7180874d53ef4433",
   "lastOpenFiles": [
-    "Pasted image 20240209114715.png",
-    "Pasted image 20240209114433.png",
-    "Pasted image 20240209114403.png",
-    "Tips & Tricks/Aggiornare il Vault.md",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/me.png",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/KWolf - Programmer do it better - circle - small write - final.png",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/storage/framework/sessions/nNOlwKpemalzdDMGncTFhuEL7g1SfZOYRErEyyFm",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/background.webp",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/landing-home-page-v1.webp",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs",
+    "single.png",
+    "homepage.png",
+    "Snacks/2024-02-09 - laravel-comics assets/jumbotron.jpg",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-youtube.png",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-twitter.png",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-pinterest.png",
+    "Snacks/2024-02-09 - laravel-comics assets/footer-periscope.png",
+    "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
+    "Snacks/2024-02-09 - laravel-comics assets",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/public/hot",
     "Tips & Tricks/New Laravel Project.md",
-    "__assets/imgs/Pasted image 20240209114050.png",
+    "Snacks/2024-02-09 - laravel-comics.md",
+    "Tips & Tricks/Aggiornare il Vault.md",
     "Boolean Full Stack - 112.md",
     "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/components/header.blade.php",
     "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
-    "__assets/imgs/Pasted image 20240208123411.png",
-    "__assets/imgs/Pasted image 20240208123045.png",
     "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
     "Workspace/09-laravel-intro/vendor/composer/1ce44b71",
     "Workspace/09-laravel-intro/vendor/composer",
-    "Workspace/09-laravel-intro/vendor",
-    "Workspace/09-laravel-intro/HelloWorldProject",
-    "Workspace/09-laravel-intro",
-    "Workspace/08-php-mysqli/index.php",
-    "Workspace/07-php-oop-2/php-oop-2/db.php",
     "Snacks/2024-02-05 - php-oop-2.md",
     "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
@@ -207,12 +213,7 @@
     "Snacks/2024-01-31 - DB University - 2.md",
     "Snacks/2024-01-30 - DB University - 1.md",
     "Database/2024-01-31 - DB University.md",
-    "__assets/imgs/Pasted image 20240131120038.png",
-    "__assets/imgs/db-university.drawio.png",
     "Live/2024-01-30 - 1 - DB E-Commerce.md",
-    "__assets/imgs/Biblioteca.drawio.png",
-    "__assets/imgs/db_e-commerce.drawio.png",
-    "db_e-commerce.png",
     "Live/2024-01-22 - PHP Intro.md",
     "Snacks/2024-01-29 - DB First.md",
     "Live/2024-01-29 - Tabella Libri.md",
@@ -221,7 +222,6 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/README.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md"
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md"
   ]
 }
