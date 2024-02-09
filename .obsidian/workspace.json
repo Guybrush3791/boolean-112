@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "7180874d53ef4433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips & Tricks/New Laravel Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php"
+                "file": "Tips & Tricks/New Laravel Project.md"
               }
             }
           },
@@ -162,10 +175,17 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "7180874d53ef4433",
   "lastOpenFiles": [
-    "Boolean Full Stack - 112.md",
+    "Pasted image 20240209114715.png",
+    "Pasted image 20240209114433.png",
+    "Pasted image 20240209114403.png",
+    "Tips & Tricks/Aggiornare il Vault.md",
     "Tips & Tricks/New Laravel Project.md",
+    "__assets/imgs/Pasted image 20240209114050.png",
+    "Boolean Full Stack - 112.md",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/components/header.blade.php",
+    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
     "__assets/imgs/Pasted image 20240208123411.png",
     "__assets/imgs/Pasted image 20240208123045.png",
     "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
@@ -176,9 +196,7 @@
     "Workspace/09-laravel-intro",
     "Workspace/08-php-mysqli/index.php",
     "Workspace/07-php-oop-2/php-oop-2/db.php",
-    "Workspace/07-php-oop-2/php-oop-2/index.php",
     "Snacks/2024-02-05 - php-oop-2.md",
-    "Workspace/08-php-mysqli",
     "Snacks/2024-02-06 - php-oop-2.md",
     "Snacks/2024-02-02 - php-oop-1.md",
     "Live/2024-02-05 - User Membership.md",
@@ -204,10 +222,6 @@
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
     "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/proxy-from-env/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/src/assets/vue.svg",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/public/vite.svg",
-    "Workspace/05-json_encode-decode/Live/front-end/post-manager/src/assets/vue.svg"
+    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/HISTORY.md"
   ]
 }
