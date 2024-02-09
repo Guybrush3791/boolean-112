@@ -22,6 +22,9 @@ php artisan serve
 Una volta lanciato il server, la pagina di default puo' essere aperta nel browser all'indirizzo `http://localhost:8000`
 ![[Pasted image 20240208123411.png|500]]
 ## Progetto con SASS + Bootstrap (template)
+### Template ufficiale
+Repository: `https://github.com/Guybrush3791/bool-112-laravel-base`
+
 ### Creare repository basato su template
 Creare un normale `repository` avendo cura di selezionare `bool-112-laravel-base` come template
 ![[Pasted image 20240209114050.png]]
