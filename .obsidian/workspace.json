@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md",
-                "mode": "preview",
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md",
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md",
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-09 - laravel-comics.md"
+                "file": "Snacks/2024-02-12 - laravel-model-controller.md"
               }
             }
           },
@@ -177,51 +177,50 @@
   },
   "active": "7180874d53ef4433",
   "lastOpenFiles": [
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/me.png",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/KWolf - Programmer do it better - circle - small write - final.png",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/storage/framework/sessions/nNOlwKpemalzdDMGncTFhuEL7g1SfZOYRErEyyFm",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/background.webp",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs/landing-home-page-v1.webp",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/imgs",
-    "single.png",
-    "homepage.png",
-    "Snacks/2024-02-09 - laravel-comics assets/jumbotron.jpg",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-youtube.png",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-twitter.png",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-pinterest.png",
-    "Snacks/2024-02-09 - laravel-comics assets/footer-periscope.png",
-    "Snacks/2024-02-09 - laravel-comics assets/favicon.ico",
-    "Snacks/2024-02-09 - laravel-comics assets",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/public/hot",
-    "Tips & Tricks/New Laravel Project.md",
-    "Snacks/2024-02-09 - laravel-comics.md",
-    "Tips & Tricks/Aggiornare il Vault.md",
-    "Boolean Full Stack - 112.md",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/components/header.blade.php",
-    "Workspace/10-laravel-blade-route/LaravelBladeTrouteProject/resources/views/myTests/test3.blade.php",
-    "Workspace/09-laravel-intro/vendor/composer/tmp-5735a826bc67c86a789b75f708d61cea.zip",
-    "Workspace/09-laravel-intro/vendor/composer/1ce44b71",
-    "Workspace/09-laravel-intro/vendor/composer",
-    "Snacks/2024-02-05 - php-oop-2.md",
-    "Snacks/2024-02-06 - php-oop-2.md",
-    "Snacks/2024-02-02 - php-oop-1.md",
-    "Live/2024-02-05 - User Membership.md",
-    "Live/2024-01-30 - 2 - Biblioteca.md",
-    "Live/2024-01-31 - DB University.md",
-    "Live/2024-02-01 - DB University - 2.md",
-    "Snacks/2024-02-01 - DB University - 3.md",
-    "Snacks/2024-01-31 - DB University - 2.md",
-    "Snacks/2024-01-30 - DB University - 1.md",
+    "Database/2024-02-12 - DB Movies.md",
     "Database/2024-01-31 - DB University.md",
-    "Live/2024-01-30 - 1 - DB E-Commerce.md",
-    "Live/2024-01-22 - PHP Intro.md",
-    "Snacks/2024-01-29 - DB First.md",
-    "Live/2024-01-29 - Tabella Libri.md",
-    "Untitled.md",
-    "Snacks/2024-01-25 - PHP ToDo List JSON.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/README.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-db/HISTORY.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/delayed-stream/Readme.md",
-    "Workspace/05-json_encode-decode/PHP ToDo List JSON/front-end/task-front-end/node_modules/mime-types/README.md"
+    "Pasted image 20240212125323.png",
+    "movies.sql",
+    "__assets/dump/movies.sql",
+    "Snacks/2024-02-12 - laravel-model-controller.md",
+    "Snacks/2024-02-09 - laravel-comics.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/346297f7bfadc12575a9cf2e74f7d4f6d0bfa411.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/resources/views/pages/student.blade.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/resources/views/pages/index.blade copy.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/logs/laravel.log",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Models/Student.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Http/Controllers/MainController.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/sessions/ZPZ81x6a0T8k6wdO1EgnOXr3KjFbWChLYF5s8b30",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/7cfdea7958a27ba7575bbf4427c7a7aed476bb5a.php",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/helpers/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/env/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/core/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/adapters/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/@popperjs/core/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/@popperjs/core/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/lodash/release.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/lodash/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/vite/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/vite/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/to-regex-range/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/supports-preserve-symlinks-flag/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/source-map-js/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/source-map-js/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/sass/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/LICENSE.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/CHANGELOG.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/resolve/SECURITY.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/readdirp/README.md",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg"
   ]
 }
