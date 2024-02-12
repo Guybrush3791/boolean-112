@@ -25,11 +25,9 @@
             "id": "7180874d53ef4433",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
-                "mode": "source",
-                "source": false
+                "file": "__assets/imgs/homepage.png"
               }
             }
           }
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
+                "file": "__assets/imgs/homepage.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-12 - laravel-model-controller.md",
+                "file": "__assets/imgs/homepage.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-12 - laravel-model-controller.md"
+                "file": "__assets/imgs/homepage.png"
               }
             }
           },
@@ -175,14 +173,17 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "7180874d53ef4433",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
+    "Boolean Full Stack - 112.md",
+    "__assets/imgs/homepage.png",
+    "__assets/imgs/Pasted image 20240212125323.png",
+    "__assets/imgs/single.png",
+    "Snacks/2024-02-12 - laravel-model-controller.md",
     "Database/2024-02-12 - DB Movies.md",
     "Database/2024-01-31 - DB University.md",
-    "Pasted image 20240212125323.png",
     "movies.sql",
     "__assets/dump/movies.sql",
-    "Snacks/2024-02-12 - laravel-model-controller.md",
     "Snacks/2024-02-09 - laravel-comics.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/346297f7bfadc12575a9cf2e74f7d4f6d0bfa411.php",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/resources/views/pages/student.blade.php",
@@ -219,8 +220,6 @@
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
-    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
-    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
-    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg"
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg"
   ]
 }
