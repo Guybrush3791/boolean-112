@@ -20,19 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7180874d53ef4433",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "__assets/imgs/homepage.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__assets/imgs/homepage.png",
+                "file": "Boolean Full Stack - 112.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "__assets/imgs/homepage.png",
+                "file": "Boolean Full Stack - 112.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "__assets/imgs/homepage.png"
+                "file": "Boolean Full Stack - 112.md"
               }
             }
           },
@@ -173,10 +162,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "32248fedf9084633",
   "lastOpenFiles": [
-    "Boolean Full Stack - 112.md",
     "__assets/imgs/homepage.png",
+    "Workspace/11-laravel-model-and-controller/laravel-model-controller/public/hot",
+    "Boolean Full Stack - 112.md",
     "__assets/imgs/Pasted image 20240212125323.png",
     "__assets/imgs/single.png",
     "Snacks/2024-02-12 - laravel-model-controller.md",
@@ -192,7 +182,6 @@
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Models/Student.php",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/app/Http/Controllers/MainController.php",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/sessions/ZPZ81x6a0T8k6wdO1EgnOXr3KjFbWChLYF5s8b30",
-    "Workspace/11-laravel-model-and-controller/laravel-model-controller/storage/framework/views/7cfdea7958a27ba7575bbf4427c7a7aed476bb5a.php",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/helpers/README.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/env/README.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/axios/lib/core/README.md",
@@ -213,7 +202,6 @@
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/LICENSE.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/rollup/CHANGELOG.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/resolve/SECURITY.md",
-    "Workspace/11-laravel-model-and-controller/laravel-model-controller/node_modules/readdirp/README.md",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/11-laravel-model-and-controller/laravel-model-controller/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
