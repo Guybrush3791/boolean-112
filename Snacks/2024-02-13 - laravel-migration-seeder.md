@@ -17,4 +17,4 @@ Ogni treno dovrà avere:
 
 È probabile che siano necessarie altre colonne per far funzionare la tabella nel modo corretto.
 
-Create un Controller per mostrare nella home page tutti i treni che sono in partenza dalla data odierna (fare i modo che i dati fake riportino alcuni treni compatibili con la ricerca).
+Create un Controller per mostrare nella home page tutti i treni che sono **in partenza dalla data odierna** (fare i modo che i dati `fake` riportino alcuni treni compatibili con la selezione).

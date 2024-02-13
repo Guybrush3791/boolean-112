@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -177,8 +177,10 @@
   },
   "active": "e39ed27e1c7aeea1",
   "lastOpenFiles": [
-    "Snacks/2024-02-12 - laravel-model-controller.md",
+    "Live/2024-02-13 - laravel-migration-and-seeder live coding.md",
+    "Live/2024-02-12 - laravel-model-and-controller.md",
     "Snacks/2024-02-13 - laravel-migration-seeder.md",
+    "Snacks/2024-02-12 - laravel-model-controller.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/logs/laravel.log",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/database/seeders/PizzaTableSeeder.php",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/database/factories/PizzaFactory.php",
@@ -211,8 +213,6 @@
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/resolve/SECURITY.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/readdirp/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/postcss/README.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/picomatch/README.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/picomatch/CHANGELOG.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
