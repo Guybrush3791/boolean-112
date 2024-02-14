@@ -55,9 +55,22 @@ npm run dev
 ```
 
 ### File `.env`
-Clonare il file `.env.example` e rinominarlo `.env`. Dopo aver impostato eventuali credenziali (db, mail, ecc), validare l'`APP_KEY` attraverso il seguente comando
+
+Clonare il file `.env.example` e rinominarlo `.env`. 
+
+#### `APP_KEY`
+Dopo aver impostato eventuali credenziali (db, mail, ecc), validare l'`APP_KEY` attraverso il seguente comando
 ```sh
 php artisan key:generate
+```
+#### Database
+Inserire credenziali e nome del database da utilizzare nei campi corrispondenti
+```setting
+[...]
+DB_DATABASE=db-train
+DB_USERNAME=root
+DB_PASSWORD=code
+[...]
 ```
 
 ### Verifica finale

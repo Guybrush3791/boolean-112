@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
-                "mode": "preview",
+                "file": "Tips & Tricks/New Laravel Project.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md",
+                "file": "Tips & Tricks/New Laravel Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-13 - laravel-migration-seeder.md"
+                "file": "Tips & Tricks/New Laravel Project.md"
               }
             }
           },
@@ -177,20 +177,24 @@
   },
   "active": "e39ed27e1c7aeea1",
   "lastOpenFiles": [
+    "Tips & Tricks/Aggiornare il Vault.md",
+    "Snacks/2024-02-13 - laravel-migration-seeder.md",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/vite.config.js",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/Unit/ExampleTest.php",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/Feature/ExampleTest.php",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/TestCase.php",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/Unit",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/Feature",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests/CreatesApplication.php",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/tests",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/storage/framework/cache/data",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/storage/framework/views",
+    "Workspace/13-laravel-git-branch/laravel-migration-seeder-correzione/README.md",
+    "Tips & Tricks/New Laravel Project.md",
+    "Snacks/2024-02-09 - laravel-comics.md",
     "Live/2024-02-13 - laravel-migration-and-seeder live coding.md",
     "Live/2024-02-12 - laravel-model-and-controller.md",
-    "Snacks/2024-02-13 - laravel-migration-seeder.md",
     "Snacks/2024-02-12 - laravel-model-controller.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/logs/laravel.log",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/database/seeders/PizzaTableSeeder.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/database/factories/PizzaFactory.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/app/Models/Pizza.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/framework/sessions/FY1TDPrWqoHeiqrtqS2VO0h0oHtIgCHxrNRl9yct",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/framework/views/c4e026fe5fb3f1d03ed3cc81d3379fc8c716d7cd.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/framework/views/51ae8e274455b67e205fd76331dc337d18bca8b0.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/framework/views/7bef5c6dd136df93ac1c8491ee41eaec8d74ec0f.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/storage/framework/views/ac5f303533ee9fda4629ba7e49b28e5d29001c42.php",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/app/Http/Controllers/MainController.php",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/axios/lib/helpers/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/axios/lib/env/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/axios/lib/core/README.md",
@@ -209,10 +213,6 @@
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/sass/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/rollup/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/rollup/LICENSE.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/rollup/CHANGELOG.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/resolve/SECURITY.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/readdirp/README.md",
-    "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/node_modules/postcss/README.md",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/12-laravel-migration-and-seeder/laravel-migration-seeder/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
