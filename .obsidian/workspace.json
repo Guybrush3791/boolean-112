@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Live/2024-02-15 - laravel crud 1.md",
                 "mode": "preview",
                 "source": false
               }
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5a337ebb94462893",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Live/2024-02-15 - laravel crud 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md",
+                "file": "Live/2024-02-15 - laravel crud 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-15 - laravel-dc-comics.md"
+                "file": "Live/2024-02-15 - laravel crud 1.md"
               }
             }
           },
@@ -176,10 +175,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e39ed27e1c7aeea1",
+  "active": "af53271a29421aa1",
   "lastOpenFiles": [
-    "Tips & Tricks/New Laravel Project.md",
     "Snacks/2024-02-15 - laravel-dc-comics.md",
+    "Live/2024-02-15 - laravel crud 1.md",
+    "Tips & Tricks/New Laravel Project.md",
     "Snacks/2024-02-13 - laravel-migration-seeder.md",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/views/fd5ad13f527d1742c67d16020c51bab72e82d50b.php",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/create.blade.php",
@@ -213,7 +213,6 @@
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/resolve/SECURITY.md",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/readdirp/README.md",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/postcss/README.md",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/picomatch/README.md",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
