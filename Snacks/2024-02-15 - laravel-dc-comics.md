@@ -15,3 +15,10 @@ Iniziate a definire le prime operazioni `CRUD` con le relative view:
 - `show()`
 - `create()`
 - `store()`
+
+### Day 2
+Ciao ragazzi,
+oggi lavorate sulla stessa repo di ieri e completate le operazioni CRUD includendo le funzioni di `edit` e `delete`/`destory`.
+
+#### Bonus
+tramite `javascript`, quando l'utente clicca sul pulsante **delete**, chiedere conferma della cancellazione, prima di eliminare l'elemento.
