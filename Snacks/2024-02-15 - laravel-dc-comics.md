@@ -1,6 +1,9 @@
 ## Repo
 `laravel-dc-comics`
 
+## Correzione
+[Link](https://github.com/Guybrush3791/bool-112-laravel-dc-comics)
+
 ## Todo
 ### Day 1
 Ciao ragazzi,
