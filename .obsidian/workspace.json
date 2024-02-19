@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "e39ed27e1c7aeea1",
+            "id": "bef008bf7d050cd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 396.5
   },
   "right": {
     "id": "5a337ebb94462893",
@@ -175,20 +175,23 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e39ed27e1c7aeea1",
+  "active": "bef008bf7d050cd2",
   "lastOpenFiles": [
+    "Snacks/2024-02-19 - laravel-dc-comics.md",
     "Snacks/2024-02-16 - laravel-dc-comics.md",
     "Snacks/2024-02-15 - laravel-dc-comics.md",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/views/4622f78e3f70eb5060cbc5ee8a2aa35f70153002.php",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/edit.blade.php",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/update.blade.php",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/resources/views/pages/create.blade copy.php",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/sessions/GLamM0NkYJiw76sY1HlAdPgUN1HN1tdjFEPRL5tx",
+    "Boolean Full Stack - 112.md",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/app/Http/Requests/EmployeeFormRequest.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/app/Http/Requests",
     "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/public/hot",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/esbuild-darwin-64",
-    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/node_modules/esbuild-android-arm64",
-    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/storage/framework/views/d35d89f6924e1f660d861039f440b2557eafcc51.php",
-    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/resources/views/pages/comic/create.blade.php",
+    "Workspace/14-laravel-crud-1/bool-112-laravel-crud-1/storage/framework/sessions/4FmmmHq68T5MWnY3S3dkRrwg4mLQzsjraXPhVZh9",
+    "Live/2024-02-15 - laravel crud 1.md",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/storage/framework/views/5d2a0d0ec954646658c3bd52db12d7e88323703e.php",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/resources/views/pages/comic/edit.blade.php",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/resources/views/pages/comic/create.blade copy.php",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/storage/framework/sessions/MNjE78YhJk605ILPsxsTlx5ioXdL9d8IkNANudw3",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/storage/framework/views/02af61252af47a26d688566dc53240ce8872593e.php",
+    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/storage/framework/views/7fb56ad3c9c6e212473dc63d3dd24c9bf08cc660.php",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/axios/lib/env/README.md",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/axios/lib/helpers/README.md",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/axios/lib/core/README.md",
@@ -210,9 +213,6 @@
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/rollup/CHANGELOG.md",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/resolve/SECURITY.md",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/readdirp/README.md",
-    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/postcss/README.md",
-    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/picomatch/README.md",
-    "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/node_modules/picomatch/CHANGELOG.md",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/15-laravel-crud-2/bool-112-laravel-dc-comics/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
