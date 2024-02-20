@@ -75,3 +75,44 @@ DB_PASSWORD=code
 
 ### Verifica finale
 Aprire il progetto, posizionando il browser all'indirizzo `http://localhost:8000/` e testare il corretto funzionamento di `Laravel` con `SCSS` e `Bootstrap (CSS + JS)`.
+## Progetto con SASS + Bootstrap + Auth
+Creare un progetto vuoto tramite `composer`
+```sh
+composer create-project --prefer-dist laravel/laravel=9.2 my_project_name
+```
+
+Dopo essere entrato nella cartella del progetto, installare l'autenticazione
+```sh
+composer require laravel/breeze --dev
+php artisan breeze:install
+```
+In questa fase verranno fatte alcune domande all'utente, rispondere come segue:
+- **stack**: `Blade` (0)
+- **dark mode support**: no
+- **Pests tests**: no
+
+```sh
+composer require pacificdev/laravel_9_preset
+php artisan preset:ui bootstrap --auth
+```
+
+Installare ora le dipendenze `back-end` e lanciare il server
+```sh
+composer update
+php artisan serve
+```
+
+Su diverso terminale installare dipendenze `back-end` e lanciare compilatore `SASS`
+```sh
+npm i
+npm run dev
+```
+
+### Auth
+> [!attention] Attenzione
+> Per attivare le funzioni di login/logout e' necessario collegare anche il `database` e lanciare le `migrations` per la creazione della tabella degli `users`
+
+Dopo aver collegato correttamente il database tramite il file `.env`, lanciare il `refresh` delle `migration`
+```sh
+php artisan migrate:refresh
+```
