@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
+                "file": "Live/2024-02-22 - Laravel One-to-Many.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
+                "file": "Live/2024-02-22 - Laravel One-to-Many.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
+                "file": "Live/2024-02-22 - Laravel One-to-Many.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md"
+                "file": "Live/2024-02-22 - Laravel One-to-Many.md"
               }
             }
           },
@@ -177,8 +177,10 @@
   },
   "active": "6065b70af0d4f1ea",
   "lastOpenFiles": [
-    "Tips & Tricks/New Laravel Project.md",
+    "Live/2024-02-20 - laravel crud auth.md",
+    "Live/2024-02-22 - Laravel One-to-Many.md",
     "Snacks/2024-02-22 - Laravel One-to-Many.md",
+    "Tips & Tricks/New Laravel Project.md",
     "Boolean Full Stack - 112.md",
     "Workspace/17-laravel-rel-1/bool-112-laravel-rel/storage/framework/views/dd401428fcd69487d7062ce9f84f2ef842b30bf8.php",
     "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/index.blade.php",
@@ -211,8 +213,6 @@
     "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/source-map-js/README.md",
     "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/source-map-js/CHANGELOG.md",
     "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/picomatch/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/esbuild/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/esbuild/LICENSE.md",
     "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
