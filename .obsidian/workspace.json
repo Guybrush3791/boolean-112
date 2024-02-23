@@ -27,8 +27,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
-                "mode": "source",
+                "file": "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
+                "file": "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md",
+                "file": "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-22 - Laravel One-to-Many.md"
+                "file": "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md"
               }
             }
           },
@@ -177,51 +177,51 @@
   },
   "active": "6065b70af0d4f1ea",
   "lastOpenFiles": [
-    "Live/2024-02-22 - Laravel One-to-Many.md",
-    "Live/2024-02-20 - laravel crud auth.md",
-    "Snacks/2024-02-22 - Laravel One-to-Many.md",
-    "Tips & Tricks/New Laravel Project.md",
     "Boolean Full Stack - 112.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/storage/framework/views/dd401428fcd69487d7062ce9f84f2ef842b30bf8.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/index.blade.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/index.blade copy.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/index.blade copy.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/app/Http/Controllers/PostController.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/public/hot",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/app/Http/Controllers/UserController.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/database/seeders/PostTableSeeder.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/database/seeders/UserDetailTableSeeder.php",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/lodash/release.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/lodash/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/bootstrap/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/esbuild-linux-64/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/rollup/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/rollup/LICENSE.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/rollup/CHANGELOG.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/sass/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/vite/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/vite/LICENSE.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/resolve/SECURITY.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/axios/UPGRADE_GUIDE.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/axios/SECURITY.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/axios/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/axios/CHANGELOG.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/postcss/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/immutable/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/nanoid/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/source-map-js/README.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/source-map-js/CHANGELOG.md",
-    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/node_modules/picomatch/README.md",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
-    "Workspace/16-laravel-crud-recap-auth/bool-112-laravel-crud-auth/vendor/symfony/error-handler/Resources/assets/images/icon-book.svg"
+    "Snacks/2024-02-19 - laravel-dc-comics.md",
+    "Snacks/2024-02-22 - Laravel One-to-Many.md",
+    "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/storage/framework/views/022946a13ea85892c4e5b82ee34eba0f25385582.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/edit.blade.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/create.blade copy.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/storage/framework/views/8465bd74967233385b66cd62903e9ee433340e50.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/resources/views/pages/posts/create.blade.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/storage/framework/sessions/D3VZvhS6dJacllFFIvK5RQ6m6hARsZPNArN9JDmh",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/database/seeders/TagTableSeeder.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/database/factories/TagFactory.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/app/Models/Tag.php",
+    "Workspace/17-laravel-rel-1/bool-112-laravel-rel/database/migrations/2024_02_23_102225_create_post_tag_table.php",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/axios/lib/helpers/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/axios/lib/env/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/axios/lib/core/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/axios/lib/adapters/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/@popperjs/core/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/@popperjs/core/LICENSE.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/lodash/release.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/lodash/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/vite/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/vite/LICENSE.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/source-map-js/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/source-map-js/CHANGELOG.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/supports-preserve-symlinks-flag/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/to-regex-range/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/sass/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/rollup/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/rollup/LICENSE.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/rollup/CHANGELOG.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/resolve/SECURITY.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/readdirp/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/node_modules/postcss/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-copy.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/vendor/symfony/error-handler/Resources/assets/images/icon-book.svg"
   ]
 }
