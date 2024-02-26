@@ -13,7 +13,7 @@ I task da svolgere sono diversi, ma alcuni di essi sono un ripasso di ciò che a
 - aggiungere ai model `Technology` e `Project` i metodi per definire la relazione **many to many**
 - creare factory + seeder per la tabella `Technology` (attenzione alle relazioni!)
 - visualizzare nella `index` del progetto le tecnologie utilizzate, se presenti
-- generare le operazioni di creazione e aggiornamento della tabella post tramite form
+- generare le operazioni di creazione e aggiornamento della tabella project tramite form
 
 ### Bonus 1
 gestire il salvataggio dell’associazione progetto-tecnologie con opportune regole di validazione
