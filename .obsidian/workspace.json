@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+                "file": "Live/2024-02-27 - Laravel - File Storage.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+                "file": "Live/2024-02-27 - Laravel - File Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+                "file": "Live/2024-02-27 - Laravel - File Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md"
+                "file": "Live/2024-02-27 - Laravel - File Storage.md"
               }
             }
           },
@@ -162,8 +162,10 @@
   },
   "active": "a6490bad575bf924",
   "lastOpenFiles": [
-    "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
+    "Live/2024-02-26 - Laravel Relationship Recap.md",
+    "Live/2024-02-27 - Laravel - File Storage.md",
     "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+    "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/krVN1miA5sVIhjVVQOj15oT6tnfJyOJbGuiKNjZ6",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/0foQdOLKR2E68saWQsGYTWEQbAO4gviqGp3AOIl8.png",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/z1sB7jnuIdGif1SrWQApGnWNYBjpQ58okd8mOwzO.png",
@@ -199,8 +201,6 @@
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/resolve/SECURITY.md",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/readdirp/README.md",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/postcss/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/picomatch/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/picomatch/CHANGELOG.md",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
     "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
