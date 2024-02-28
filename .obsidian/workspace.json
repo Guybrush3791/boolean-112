@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2024-02-27 - Laravel - File Storage.md",
-                "mode": "preview",
+                "file": "Snacks/2024-02-28 - Laravel API.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2024-02-27 - Laravel - File Storage.md",
+                "file": "Snacks/2024-02-28 - Laravel API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2024-02-27 - Laravel - File Storage.md",
+                "file": "Snacks/2024-02-28 - Laravel API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2024-02-27 - Laravel - File Storage.md"
+                "file": "Snacks/2024-02-28 - Laravel API.md"
               }
             }
           },
@@ -162,51 +162,51 @@
   },
   "active": "a6490bad575bf924",
   "lastOpenFiles": [
-    "Live/2024-02-26 - Laravel Relationship Recap.md",
-    "Live/2024-02-27 - Laravel - File Storage.md",
     "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
-    "Snacks/2024-02-23 - Laravel Boolfolio - Project Technology.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/krVN1miA5sVIhjVVQOj15oT6tnfJyOJbGuiKNjZ6",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/0foQdOLKR2E68saWQsGYTWEQbAO4gviqGp3AOIl8.png",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/z1sB7jnuIdGif1SrWQApGnWNYBjpQ58okd8mOwzO.png",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images/1rFmxLabDpXdURr1s8lTgQ4526oW6PBcWscaAPO6.png",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/app/public/images",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/framework/views/bdab72765df7bf9c6755504fa062b96b420fb5ed.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/framework/views/f73d6601e42a61f8ea41d209e4ca76219c8ae8b3.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/framework/views/5f5e206ea63c1478771f68807369e3240be9564d.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/resources/views/pages/post/create.blade.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/resources/views/pages/create.blade.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/framework/views/610d987251c3a5596e367a773076ba4cacca0717.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/framework/views/e762016de3051edcc198b9d7b0f53b2bb0659274.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/storage/logs/laravel.log",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/axios/lib/helpers/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/axios/lib/env/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/axios/lib/core/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/axios/lib/adapters/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/@popperjs/core/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/@popperjs/core/LICENSE.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/lodash/release.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/lodash/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/vite/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/vite/LICENSE.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/to-regex-range/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/supports-preserve-symlinks-flag/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/supports-preserve-symlinks-flag/CHANGELOG.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/source-map-js/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/source-map-js/CHANGELOG.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/sass/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/rollup/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/rollup/LICENSE.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/rollup/CHANGELOG.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/resolve/SECURITY.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/readdirp/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/node_modules/postcss/README.md",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg"
+    "Snacks/2024-02-28 - Laravel API.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/public/hot",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/seeders/PhotoTableSeeder.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/factories/PhotoFactory.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/app/Models/Photo.php",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/migrations/2024_02_28_104607_create_photos_table.php",
+    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/public/hot",
+    "Workspace/21-laravel-vue-api/vuejs-api/src/components/ApiContent.vue",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/package.json",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/index.js",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/HISTORY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/delayed-stream/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/HISTORY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/combined-stream/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/asynckit/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/proxy-from-env/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/core/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/adapters/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/helpers/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/env/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/SECURITY.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/MIGRATION_GUIDE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/CHANGELOG.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/follow-redirects/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/form-data/Readme.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/LICENSE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/compiler-sfc/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/runtime-dom/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/README.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/LICENSE.md",
+    "Workspace/21-laravel-vue-api/vuejs-api/src/assets/vue.svg",
+    "Workspace/21-laravel-vue-api/vuejs-api/public/vite.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-code.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg"
   ]
 }
