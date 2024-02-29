@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2024-02-29.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -160,7 +160,7 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "af53271a29421aa1",
+  "active": "a6490bad575bf924",
   "lastOpenFiles": [
     "Tips & Tricks/New Laravel Project.md",
     "Snacks/2024-02-29.md",
