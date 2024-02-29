@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2024-02-28 - Laravel API.md",
-                "mode": "source",
+                "file": "Snacks/2024-02-29.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2024-02-28 - Laravel API.md",
+                "file": "Snacks/2024-02-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2024-02-28 - Laravel API.md",
+                "file": "Snacks/2024-02-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2024-02-28 - Laravel API.md"
+                "file": "Snacks/2024-02-29.md"
               }
             }
           },
@@ -162,42 +162,44 @@
   },
   "active": "a6490bad575bf924",
   "lastOpenFiles": [
-    "Snacks/2024-02-27 - Laravel Boolfolio - Project Technology - Images.md",
+    "Pasted image 20240229112032.png",
+    "Tips & Tricks/New Laravel Project.md",
+    "Snacks/2024-02-29.md",
     "Snacks/2024-02-28 - Laravel API.md",
-    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end",
-    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/public/hot",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/seeders/PhotoTableSeeder.php",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/factories/PhotoFactory.php",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/app/Models/Photo.php",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/database/migrations/2024_02_28_104607_create_photos_table.php",
-    "Workspace/20-laravel-image-upload/bool-112-laravel-image-upload/public/hot",
-    "Workspace/21-laravel-vue-api/vuejs-api/src/components/ApiContent.vue",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/package.json",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/index.js",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-db/HISTORY.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/delayed-stream/Readme.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/mime-types/HISTORY.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/combined-stream/Readme.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/asynckit/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/proxy-from-env/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/core/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/adapters/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/helpers/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/lib/env/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/SECURITY.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/MIGRATION_GUIDE.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/axios/CHANGELOG.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/follow-redirects/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/form-data/Readme.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/vite/LICENSE.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/compiler-sfc/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/@vue/runtime-dom/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/README.md",
-    "Workspace/21-laravel-vue-api/vuejs-api/node_modules/rollup/LICENSE.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/platform/node/classes/URLSearchParams.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/platform/node/classes/FormData.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/platform/browser/classes/URLSearchParams.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/platform/browser/classes/FormData.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/platform/browser/classes/Blob.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vite/dist/node/chunks/dep-wALyWXZB.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vite/dist/node/chunks/dep-kjUoH5nk.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vite/dist/node/chunks/dep-jDlpJiMN.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vite/dist/node/chunks/dep-g6LmopN4.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vite/dist/node/chunks/dep-8a-6Quh6.js",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/helpers/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/env/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/core/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/axios/lib/adapters/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/shared/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/server-renderer/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vitejs/plugin-vue/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/runtime-dom/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@rollup/rollup-linux-x64-musl/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/runtime-core/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/reactivity/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/compiler-ssr/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/compiler-dom/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/compiler-sfc/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@vue/compiler-core/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@types/estree/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@rollup/rollup-linux-x64-gnu/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@jridgewell/sourcemap-codec/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@esbuild/linux-x64/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@babel/parser/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/@babel/parser/CHANGELOG.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/node_modules/vue/README.md",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/src/assets/vue.svg",
+    "Workspace/18-laravel-rel-2/bool-112-laravel-one-to-many/front-end/vuejs-front-end/public/vite.svg",
     "Workspace/21-laravel-vue-api/vuejs-api/src/assets/vue.svg",
     "Workspace/21-laravel-vue-api/vuejs-api/public/vite.svg",
     "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Template/icons/file-directory.svg",
@@ -205,8 +207,6 @@
     "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/symfony-logo.svg",
     "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-support.svg",
     "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square.svg",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square.svg",
-    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-minus-square-o.svg"
+    "Workspace/21-laravel-vue-api/bool-112-laravel-api/vendor/symfony/error-handler/Resources/assets/images/icon-plus-square-o.svg"
   ]
 }
