@@ -41,15 +41,34 @@ Aggiungiamo la relazione **many-to-many** tra `Tag` e `Event` nei relativi model
 #### CRUD
 Utilizzate il resource controller `Admin\EventController` creato prima per gestire tutte le operazioni CRUD degli Event. 
 
-### BONUS  
-#### RELAZIONE EVENT-USER
+#### BONUS  
+##### RELAZIONE EVENT-USER
 Definire relazione di tipo *one-to-many* tra `Event` e `User`.
 
-#### SEEDER - 1
+##### SEEDER - 1
 Creare un seeder per gli utenti.
 
-#### SEEDER - 2
-Collegare nei seeder degli `Event` ad uno `User` casuale.
+##### SEEDER - 2
+Collegare nei seeder degli `Event`, uno `User` casuale per ogni evento creato.
+
+### Giorno 2
+#### BONUS GIORNO 1
+Se non sono stati fatti, recuperare i [[#Bonus|bonus del giorno 1]]
+#### PROTEGGERE ROTTE IN SCRITTURA
+Le rotte che permettono di scrivere sul db devono essere protette da autenticazione in modo che solo gli utenti registrati possano effettuare questo tipo di operazioni.
+
+#### INTEGRAZIONE USER IN EVENT CREATE
+Durante la fase di creazione di un nuovo evento, recuperare l'utente collegato all'evento dall'utente che ha effettuato l'operazione (login).
+
+#### MODIFICHE INDIVIDUALI
+Ogni utente puo' modificare/eliminare **SOLO** gli eventi che sono a lui/lei associati.
+
+#### FRONT-END PUBBLICO
+Dopo aver sviluppato un controller dedicato ai servizi **REST**, creare un progetto in **VueJS** che permetta la visualizzazione dei dati presenti in db (solo lettura).
+
+#### BONUS 2
+##### Custom login form
+Definire un proprio form di login custom da posizionare all'interno della pagina.
 
 ## Note
 Ogni milestone dovrebbe coincidere con *ALMENO*:  
@@ -57,4 +76,3 @@ Ogni milestone dovrebbe coincidere con *ALMENO*:
 - una commit individuale sul **proprio branch** 
 - uno merge sul branch **main**
 - un confronto col team su quanto si è fatto  
-
