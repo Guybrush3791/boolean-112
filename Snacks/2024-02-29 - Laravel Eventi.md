@@ -70,6 +70,21 @@ Dopo aver sviluppato un controller dedicato ai servizi **REST**, creare un proge
 ##### Custom login form
 Definire un proprio form di login custom da posizionare all'interno della pagina.
 
+### Giorno 3
+#### DEFINIRE API PER L'ENTITA' TAG
+Nel progetto *Laravel* aggiungere un `Controller`  di tipo *REST* per la visualizzazione dei tag via *API*.
+
+#### INSTALLARE VUE-ROUTE
+Installare `vue-route@4` via `npm` come visto a lezione e creare 2 pagine separate:
+- ##### Home
+	Contenente la lista e la `show` degli `Event`
+- ##### Tags
+	Contenente la lista ela `show` sui `Tag`
+- ##### About
+	Contenente una semplice pagina di descrizione degli autori
+
+Da ogni pagina deve essere possibile raggiungere l'altra attraverso un link.
+
 ## Note
 Ogni milestone dovrebbe coincidere con *ALMENO*:  
 - un confronto col team sul da farsi  
